@@ -130,13 +130,11 @@ For a more complete list, visit my website: [sethbarrett.xyz](https://sethbarret
 
 ## GitHub Activity
 
-<div align="center">
+I keep most of my active research and software engineering work on GitHub, including cybersecurity research tooling, Python packages, lab infrastructure, and personal website projects.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sethbarrett50&show_icons=true&hide_border=true&rank_icon=github" alt="Seth's GitHub stats" />
+You can view my recent activity directly on my profile:
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethbarrett50&layout=compact&hide_border=true" alt="Top languages" />
-
-</div>
+[github.com/sethbarrett50](https://github.com/sethbarrett50)
 
 ---
 
