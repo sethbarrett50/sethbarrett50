@@ -128,16 +128,6 @@ For a more complete list, visit my website: [sethbarrett.xyz](https://sethbarret
 
 ---
 
-## GitHub Activity
-
-I keep most of my active research and software engineering work on GitHub, including cybersecurity research tooling, Python packages, lab infrastructure, and personal website projects.
-
-You can view my recent activity directly on my profile:
-
-[github.com/sethbarrett50](https://github.com/sethbarrett50)
-
----
-
 ## What I Like Building
 
 * Research code that other people can actually reproduce
