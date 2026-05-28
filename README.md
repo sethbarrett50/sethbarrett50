@@ -124,9 +124,7 @@ My research includes work on:
 * Privacy and security implications in consumer technologies
 * Vault apps and gray-zone digital forensics
 
-For a more complete list, visit my website:
-
-[sethbarrett.xyz](https://sethbarrett.xyz/)
+For a more complete list, visit my website: [sethbarrett.xyz](https://sethbarrett.xyz/)
 
 ---
 
